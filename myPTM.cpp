@@ -1,4 +1,4 @@
-// myIQO.cpp : 隅砱諷秶怢茼蚚最唗腔諳萸﹝
+// myIQO.cpp :
 //
 
 #include "stdafx.h"
